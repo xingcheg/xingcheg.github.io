@@ -47,7 +47,7 @@ body {
 .container {
   width: 900px;
   height: 400px;
-  margin: 20 auto;
+  margin: 20px auto;
   position: relative;
 }
 .leftbox {
