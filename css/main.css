@@ -40,18 +40,18 @@ ul.posts li {
 }
 
 .container {
-  width: 1000px;
-  height: 700px;
-  margin: 0 auto;
+  width: 900px;
+  height: 500px;
+  margin: 100px auto;
   position: relative;
 }
 .leftbox {
-  width: 300px;  /*左侧固定宽度值*/
+  width: 250px;  /*左侧固定宽度值*/
   height: 100%;
   position: absolute;
 }
 .rightbox {
   height: 100%;
-  margin-left: 300px; /*边距值=左侧固定宽度值*/
+  margin-left: 250px; /*边距值=左侧固定宽度值*/
   position: relative;
 }
