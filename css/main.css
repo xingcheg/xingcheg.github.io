@@ -11,7 +11,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #4863A0;
 }
 a:hover {
     text-decoration: underline;
@@ -43,7 +43,7 @@ body {
     margin: 60px auto;
     width: 900px;
     /*background-color: #F8F8FF;*/
-    background-image: url("https://github.com/xingcheg/xingcheg.github.io/raw/master/img/Beach.jpg");
+    background-image: url("https://github.com/xingcheg/xingcheg.github.io/raw/master/img/beach.jpg");
 }
 
 .container {
