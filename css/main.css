@@ -42,7 +42,8 @@ ul.posts li {
 body {
     margin: 60px auto;
     width: 900px;
-    background-color: #F8F8FF;
+    /*background-color: #F8F8FF;*/
+    background-image: url("https://github.com/xingcheg/xingcheg.github.io/raw/master/img/Beach.jpg");
 }
 
 .container {
