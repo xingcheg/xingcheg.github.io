@@ -1,0 +1,8 @@
+name: Xingche Guo
+markdown: kramdown
+permalink: /about/:year/:month/:day/:title
+
+title: Xingche Guo
+logo: /images/logo.jpg
+description: [A short description of your site's purpose]
+theme: jekyll-theme-minimal
