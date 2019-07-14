@@ -47,16 +47,16 @@ body {
 .container {
   width: 900px;
   height: 400px;
-  margin: 0 auto;
+  margin: 20 auto;
   position: relative;
 }
 .leftbox {
-  width: 250px;  /*左侧固定宽度值*/
+  width: 200px;  /*左侧固定宽度值*/
   height: 100%;
   position: absolute;
 }
 .rightbox {
   height: 100%;
-  margin-left: 250px; /*边距值=左侧固定宽度值*/
+  margin-left: 200px; /*边距值=左侧固定宽度值*/
   position: relative;
 }
