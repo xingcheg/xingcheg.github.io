@@ -42,6 +42,7 @@ ul.posts li {
 body {
     margin: 60px auto;
     width: 900px;
+    background-color: #F8F8FF;
 }
 
 .container {
