@@ -42,14 +42,13 @@ ul.posts li {
     list-style: none;
 }
 
-.column {
+.leftbox {
+  width: 300px;
+  background-color: #aadddd;
   float: left;
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
+}     
+.rightbox {
+  width: 700px;
+  background-color: #f08844;
+  float: right;
 }
