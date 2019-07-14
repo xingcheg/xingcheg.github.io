@@ -40,14 +40,14 @@ ul.posts li {
 }
 
 body {
-    margin: 100px auto;
+    margin: 60px auto;
     width: 900px;
 }
 
 .container {
   width: 900px;
   height: 500px;
-  margin: 100px auto;
+  margin: 0 auto;
   position: relative;
 }
 .leftbox {
