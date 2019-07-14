@@ -43,12 +43,13 @@ ul.posts li {
 }
 
 .leftbox {
-  width: 20%;
-  background-color: #aadddd;
-  float: left;
-}     
+    width: 100px;
+    height: 100%;
+    background-color: #aadddd;
+    float: left;
+}
 .rightbox {
-  width: 50%;
-  background-color: #f08844;
-  float: right;
+    height: 100%;
+    margin-left: 100px;
+    background-color: #f08844;
 }
