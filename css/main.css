@@ -52,7 +52,8 @@ nav {
 
 .container {
   width: 900px;
-  height: 400px auto;
+  height: auto;
+  min-height: 400px;
   margin: 20px auto;
   position: relative;
 }
