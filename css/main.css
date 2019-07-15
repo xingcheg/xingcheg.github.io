@@ -17,7 +17,15 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2.4em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font-size: 2.1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
+    font-size: 1.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
