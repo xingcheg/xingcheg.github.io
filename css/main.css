@@ -30,11 +30,6 @@ footer {
     font-size: .8em;
 }
 
-header {
-  height: 50px;
-  background-color: #F8F8FF;
-}
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
@@ -49,6 +44,10 @@ body {
     width: 900px;
     /*background-color: #F8F8FF;*/
     /*background-image: url("https://github.com/xingcheg/xingcheg.github.io/raw/master/img/beach.jpg");*/
+}
+
+nav {
+     background-color: #F8F8FF;
 }
 
 .container {
