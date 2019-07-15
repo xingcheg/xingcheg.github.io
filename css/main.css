@@ -61,4 +61,5 @@ body {
   height: 100%;
   margin-left: 200px; /*边距值=左侧固定宽度值*/
   position: relative;
+  background-color: #FFFFFF;
 }
