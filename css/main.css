@@ -47,7 +47,7 @@ body {
 }
 
 nav {
-     background-color: #F8F8FF;
+     border-bottom: 1px solid #d5d5d5;
 }
 
 .container {
