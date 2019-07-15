@@ -43,7 +43,7 @@ body {
     margin: 60px auto;
     width: 900px;
     /*background-color: #F8F8FF;*/
-    background-image: url("https://github.com/xingcheg/xingcheg.github.io/raw/master/img/beach.jpg");
+    /*background-image: url("https://github.com/xingcheg/xingcheg.github.io/raw/master/img/beach.jpg");*/
 }
 
 .container {
@@ -51,7 +51,6 @@ body {
   height: 400px;
   margin: 20px auto;
   position: relative;
-  background-color: #F8F8FF;
 }
 .leftbox {
   width: 200px;  /*左侧固定宽度值*/
